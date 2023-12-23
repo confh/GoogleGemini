@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsx watch src/index.ts"
   },
-  "author": "",
+  "author": "Confis <onexite1@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.9.0",
+    "@google/generative-ai": "^0.1.3",
     "common-js": "^0.3.8",
     "commonjs": "^0.0.1",
     "discord.js": "^14.11.0",
@@ -28,5 +29,6 @@
   },
   "engines": {
     "node": ">=16.9.0"
-  }
+  },
+  "repository": "https://github.com/confh/GoogleGemini.git"
 }
